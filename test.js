@@ -1,4 +1,4 @@
-// little
+// luo test hh
 
 Function.prototype.myBind = function (context, ...args1) {
   context = context || window;
