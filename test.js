@@ -1,5 +1,4 @@
-// fea test
-
+// dev fea
  // hhhhh
 Function.prototype.myBind = function (context, ...args1) {
   context = context || window;
