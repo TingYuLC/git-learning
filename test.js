@@ -1,4 +1,4 @@
-// test 0
+// fea test
 
  // hhhhh
 Function.prototype.myBind = function (context, ...args1) {
